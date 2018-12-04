@@ -1,0 +1,9 @@
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\bin\Assignment-1.dll.config
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\bin\Assignment-1.dll
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\bin\Assignment-1.pdb
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csprojResolveAssemblyReference.cache
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\obj\Debug\Assignment-1.csproj.CoreCompileInputs.cache
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\obj\Debug\Assignment-1.dll
+C:\Tyler\Fall 2018\CS 3750\Assignment-1\Assignment-1\obj\Debug\Assignment-1.pdb
